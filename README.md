@@ -5,7 +5,7 @@
   <img src='app/assets/images/readme/kaizen_landing.png' alt='The :: Kaizen :: Landing Page'>
 </p>
 
-<p align=center style="color: #343a40">Kaizen, as a word, comes from the Japanese philosophy of improving oneself in any way, big or small. Kaizen, as an application, is built with this philosophy at it's core.</p>
+<p align=center style="color: #343a40">Kaizen, as a word, comes from the Japanese philosophy of improving oneself in any way, big or small. Kaizen, as an application, is built with this philosophy at its core.</p>
 
 <p align='center'>
   <img src='app/assets/images/readme/turing_horizontal_spacer_sm.png'>
@@ -13,7 +13,7 @@
 
 # <span style="color: #ef3852">About Kaizen ::</span>
 
-<p style="color: #343a40">Kaizen is an application about community improvement. At it's core, Kaizen seeks to help bridge the gap between students and junior developers breaking in to development and large, professional communities like Stack Overflow. Turing taught us that developer empathy should be at the forefront of developer engagement. As a developer team, we set out to bring empathy to those who may feel intimidated in other spaces. The result? Kaizen.</p>
+<p style="color: #343a40">Kaizen is an application about community improvement. At its core, Kaizen seeks to help bridge the gap between students and junior developers breaking into software development, with large professional communities of seasoned developers similar to Stack Overflow. This app demonstrates why developer empathy should be at the forefront of developer engagement. As a developer team, we set out to bring empathy to those who may feel intimidated in other spaces. The result? Kaizen.</p>
 
 <p align='center'>
   <img src='app/assets/images/readme/turing_horizontal_spacer_sm.png'>
