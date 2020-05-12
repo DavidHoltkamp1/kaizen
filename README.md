@@ -13,7 +13,7 @@
 
 # <span style="color: #ef3852">About Kaizen ::</span>
 
-<p style="color: #343a40">Kaizen is an application about community improvement. At its core, Kaizen seeks to help bridge the gap between students and junior developers breaking into software development, with large professional communities of seasoned developers similar to Stack Overflow. This app demonstrates why developer empathy should be at the forefront of developer engagement. As a developer team, we set out to bring empathy to those who may feel intimidated in other spaces. The result? Kaizen.</p>
+<p style="color: #343a40">Kaizen is an application about community improvement. At its core, Kaizen seeks to help bridge the gap between students and junior developers breaking into software development, with large professional communities of seasoned developers similar to Stack Overflow. This app demonstrates why developer empathy should be at the forefront of developer engagement. As a development team, we set out to bring empathy to those who may feel intimidated in other spaces. The result? Kaizen.</p>
 
 <p align='center'>
   <img src='app/assets/images/readme/turing_horizontal_spacer_sm.png'>
